@@ -1,0 +1,15 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  GLMMcosinor: GLMMcosinor.html
+  data-simulations: data-simulations.html
+  mixed-models: mixed-models.html
+  model-specification: model-specification.html
+  model-visualisations: model-visualisations.html
+  multiple-components: multiple-components.html
+last_built: 2024-03-17T02:29Z
+urls:
+  reference: https://docs.ropensci.org/GLMMcosinor/reference
+  article: https://docs.ropensci.org/GLMMcosinor/articles
+

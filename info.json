@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "be40dc8fca027a6a97e9ab40e09f7ac5962823c2",
+    "author": "Rex Parsons <47549264+RWParsons@users.noreply.github.com>",
+    "time": "2024-03-17 02:06:00",
+    "files": 26,
+    "merge": true,
+    "message": "Merge pull request #13 from ropensci/dev\n\nMain <- Dev"
+  },
+  "repo": "https://github.com/ropensci/GLMMcosinor",
+  "pkg": "GLMMcosinor"
+}
