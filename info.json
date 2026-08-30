@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "bc86b08db1cb47e615d9e091a85cebd2689073d1",
+    "author": "Rex Parsons <47549264+RWParsons@users.noreply.github.com>",
+    "time": "2025-12-04T01:40:03Z",
+    "files": 32,
+    "merge": true,
+    "message": "Merge pull request #41 from ropensci/39-vis-functions-are-too-convoluted\n\n39 vis functions are too convoluted"
+  },
+  "repo": "https://github.com/ropensci/GLMMcosinor",
+  "pkg": "GLMMcosinor",
+  "time": "2026-08-30T07:37:36Z"
+}
