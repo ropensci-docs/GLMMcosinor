@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "279b83dde82606f9a1f180534c3c5568cd2a757c",
+    "author": "Rex Parsons <47549264+RWParsons@users.noreply.github.com>",
+    "time": "2026-09-15T01:35:07Z",
+    "files": 2,
+    "merge": false,
+    "message": "update buildignore and codemeta\n"
+  },
+  "repo": "https://github.com/ropensci/GLMMcosinor",
+  "pkg": "GLMMcosinor",
+  "time": "2026-10-15T11:05:08Z"
+}
